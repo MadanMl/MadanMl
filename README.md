@@ -25,18 +25,18 @@ manav.madan@hs-furtwangen.de |  [LinkedIn](https://www.linkedin.com/in/manav-mad
 | - | 2024 | *Automation of Error-Prone PAM-4 Sequence Discovery Using Reinforcement Learning* | EANN |
 | - | 2024 | *Montenegrin Digital Academic Innovation Hub: Experience in Supporting Digital Health Innovations* | IOS Press |
 
-📖 [Full Publication List on Google Scholar](https://scholar.google.com/citations?user=mWceC-0AAAAJ&hl=en&authuser=1)
+[Full Publication List on Google Scholar](https://scholar.google.com/citations?user=mWceC-0AAAAJ&hl=en&authuser=1)
 
 ---
 
 ## Project Involvement
 | Project | Funding | Role | Focus |
 |---------|---------|------|-------|
-| **Q-AmeLiA** | MWK | Core Researcher | MLOps best practices, XAI, ML-SDLC metrics |
+| **Q-AmeLiA** | MWK | ML Researcher | MLOps best practices, XAI, ML-SDLC metrics |
 | **START** | BW-INVEST | AI/ML Lead | RL for high-speed receiver chip testing (BitifEye) |
 | **DIGNEST** | Erasmus+ | Technical Contributor | Academic-industry innovation hub, digital health |
-| **MoDe_ProBio** | PAN HAW BW | WP1 Contributor | Hybrid modeling & AI soft sensors for bioprocesses |
-| **CSupMNE** | Erasmus+ | Cybersecurity Expert | Governance frameworks & CSIRT capacity building |
+| **MoDe_ProBio** | PAN HAW BW | Machine Learning Expert | Hybrid modeling & AI soft sensors for bioprocesses |
+| **CSupMNE** | Erasmus+ | Program Manager | Governance frameworks & CSIRT capacity building |
 
 ---
 
@@ -51,8 +51,8 @@ manav.madan@hs-furtwangen.de |  [LinkedIn](https://www.linkedin.com/in/manav-mad
 ---
 
 ## Contact & Collaboration
-I'm always open to research collaborations, industry partnerships, and PhD mentoring opportunities.  
-📧 **Email:** manav.madan@hs-furtwangen.de  
+I'm always open to research collaborations, industry partnerships, and Master/Bachelor Thesis mentoring opportunities.  
+**Email:** manav.madan@hs-furtwangen.de  
 
 ---
 *Last updated: April 2026*
